@@ -1975,7 +1975,7 @@ object {
         font-size: 21px!important;
         line-height: 100%;
     }
-    .publication-heading h4 {
+    h4#publication-heading {
         margin: 0px 0px 15px 0px;
         color: #FFFFFF!important;
         font-size: 21px!important;
