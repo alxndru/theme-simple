@@ -1921,6 +1921,10 @@ object {
   padding: 7px;
 }
 /* Mailerlite integration */
+.ml-vertical-align-center {
+  margin-top: 100px;
+}
+
 #mlb2-332913,
 #mlb2-332913 *,
 #mlb2-332913 a:hover,
