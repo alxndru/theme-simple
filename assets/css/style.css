@@ -1322,7 +1322,7 @@ object {
   width: 3.75rem;
 }
 .site-header .site-bio {
-  text-align: center;
+  text-align: left;
   width: 320px;
   width: 20rem;
   margin: 0 auto;
@@ -2024,7 +2024,6 @@ object {
         height: 40px;
         background-color: #2ECC71!important;
         color: #FFFFFF!important;
-        font-family: Arial!important;
         font-size: 16!important;
         text-align: center;
     }
@@ -2045,7 +2044,6 @@ object {
     }
     #mlb2-332913.ml-subscribe-form .form-group.ml-error label {
         color: red!important;
-
     }
     #mlb2-332913.ml-subscribe-form .form-group.ml-error .form-control  {
         border-color: red!important;
