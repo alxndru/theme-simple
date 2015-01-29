@@ -1920,3 +1920,141 @@ object {
   line-height: 10pt;
   padding: 7px;
 }
+/* Mailerlite integration */
+#mlb2-332913,
+#mlb2-332913 *,
+#mlb2-332913 a:hover,
+#mlb2-332913 a:visited,
+#mlb2-332913 a:active{
+    overflow:visible;
+    position:static;
+    background:none;
+    border:none;
+    bottom:auto;
+    clear:none;
+    cursor:default;
+    float:none;
+    font-size:medium;
+    font-style:normal;
+    font-weight:normal;
+    letter-spacing:normal;
+    line-height:normal;
+    text-align:left;
+    text-decoration:none;
+    text-indent:0;
+    text-transform:none;
+    visibility:visible;
+    white-space:normal;
+    max-height:none;
+    max-width:none;
+    left:auto;
+    min-height:0;
+    min-width:0;
+    right:auto;
+    top:auto;
+    width:auto;
+    z-index:auto;
+}
+    #mlb2-332913 .subscribe-form {    
+        padding: 20px;
+        width: 420px!important;
+        border: 0px solid #BDC3C7!important;
+        background: #5a5e5c none!important;
+        -webkit-border-radius: 10px!important;
+        -moz-border-radius: 10px!important;
+        border-radius: 10px!important;
+    
+    }
+    #mlb2-332913 .subscribe-form .form-section {
+        /*float: left;*/
+        /*width: 100%;*/
+        margin-bottom: 20px;
+    }
+    #mlb2-332913 .subscribe-form .form-section h4 {
+        margin: 0px 0px 15px 0px;
+        color: #FFFFFF!important;
+        font-family: Arial!important;
+        font-size: 21px!important;
+        line-height: 100%;
+    }
+    #mlb2-332913 .subscribe-form .form-section p {
+        line-height: 150%;
+        margin: 0px 0px 0px 0px;
+        color: #BDC3C7!important;
+        font-family: Arial!important;
+        font-size: 13px!important; 
+    }
+    #mlb2-332913 .subscribe-form .form-section .form-group {
+        margin-bottom: 15px;
+    }
+    #mlb2-332913 .subscribe-form .form-section .form-group label {
+        float: left;
+        margin-bottom: 10px;
+        width: 100%;
+        line-height: 100%;
+        font-weight: bold;
+        color: #BDC3C7!important;
+        font-family: Arial!important;
+        font-size: 13px!important; 
+    }
+    #mlb2-332913 .subscribe-form .form-section .checkbox {
+        width: 100%;
+        margin: 0px 0px 10px 0px;
+    }
+    #mlb2-332913 .subscribe-form .form-section .checkbox label {
+        color: #BDC3C7!important;
+        font-family: Arial!important;
+        font-size: 13px!important;
+    }
+    #mlb2-332913 .subscribe-form .form-section .checkbox input {
+        margin: 0px 5px 0px 0px;
+    }
+    #mlb2-332913.ml-subscribe-form .form-group .form-control {
+        width: 100%;
+        font-size: 13px;
+        padding: 10px 10px;
+        height: auto;
+        font-family: Arial;
+        border-radius: 5px;
+        border: 2px solid #1C7B44!important;
+        color: #FFFFFF!important;
+        background-color: #27AE60!important;
+    	-webkit-box-sizing: border-box;
+    	-moz-box-sizing: border-box;
+    	box-sizing: border-box;
+        clear: left;
+    }
+    #mlb2-332913.ml-subscribe-form button {
+        border: none;
+        cursor: pointer;
+        width: 100%;
+        border-radius: 5px;
+        height: 40px;
+        background-color: #2ECC71!important;
+        color: #FFFFFF!important;
+        font-family: Arial!important;
+        font-size: 16!important;
+        text-align: center;
+    }
+    #mlb2-332913.ml-subscribe-form button.gradient-on {
+            background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.2) 100%);
+            background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.2) 100%);
+            background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.2) 100%);
+            background: linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.2) 100%);
+    }
+    #mlb2-332913.ml-subscribe-form button.gradient-on:hover {
+            background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.3) 100%);
+            background: -o-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.3) 100%);
+            background: -moz-linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.3) 100%);
+            background: linear-gradient(top, rgba(0,0,0,0) 0%, rgba(0,0,0,0.3) 100%);
+    }
+    #mlb2-332913.ml-subscribe-form .form-section.ml-error label {
+        color: red!important;
+    }
+    #mlb2-332913.ml-subscribe-form .form-group.ml-error label {
+        color: red!important;
+
+    }
+    #mlb2-332913.ml-subscribe-form .form-group.ml-error .form-control  {
+        border-color: red!important;
+    }
