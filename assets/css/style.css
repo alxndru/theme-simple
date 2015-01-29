@@ -1331,10 +1331,10 @@ object {
 }
  p#site-description {
   margin-left: 0px!important;
-  text-align: left;
+  text-align: left!important;
   width: 320px;
   width: 20rem;
-  color: #898989;
+  color: #ffffff!important;
   padding: 0 0 10px;
 }
 .site-header .site-bio a {
