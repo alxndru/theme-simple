@@ -1329,6 +1329,9 @@ object {
   color: #898989;
   padding: 0 0 10px;
 }
+.site-bio p {
+  margin-left: 0px;
+}
 .site-header .site-bio a {
   border-bottom: 1px dotted #e1e1e1;
 }
