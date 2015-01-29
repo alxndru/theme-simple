@@ -1975,6 +1975,12 @@ object {
         font-size: 21px!important;
         line-height: 100%;
     }
+    .publication-heading h4 {
+        margin: 0px 0px 15px 0px;
+        color: #FFFFFF!important;
+        font-size: 21px!important;
+        line-height: 100%;
+    }
     #mlb2-332913 .subscribe-form .form-section p {
         line-height: 150%;
         margin: 0px 0px 0px 0px;
